@@ -20,7 +20,7 @@
     }   
 }*/
 document.querySelector('.button1').addEventListener('click', ()=>{
-    let a = document.querySelector('.input-in').value;
+    let double a = document.querySelector('.input-in').value;
     if(a == ""){
         {alert("Заполните поле!");}
     }
